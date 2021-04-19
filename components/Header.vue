@@ -35,6 +35,7 @@ export default {
     .font{
         font-family: 'Roboto Condensed';
         letter-spacing: 1px;
+        transition: 0.2s;
     }
     .container{
   
@@ -61,9 +62,11 @@ export default {
     .login,.register{
         text-decoration: none;
         font-weight: bold;
-        color: #070404
+        color: #070404;
     }
-
+    .font:hover{
+        color: rgb(0, 132, 255);
+    }
     #cart{
        display: flex;
        align-items: center;

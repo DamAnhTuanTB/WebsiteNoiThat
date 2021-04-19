@@ -91,8 +91,8 @@
                          <div>Đàm Anh Tuấn</div>
                     </div>
                     <div class="col-sm-4 p-5 hover">
-                        <img class="img-fluid" src="~/assets/tuan.jpg" alt="">
-                        <div >Đàm Anh Tuấn</div>
+                        <img class="img-fluid" src="~/assets/dat.jpg" alt="">
+                        <div >Nguyễn Thành Đạt</div>
                     </div>
                 </div>
 
@@ -103,8 +103,8 @@
                         <div style="transform: rotate(0deg)">Vương Tuấn Sơn</div>
                     </div>
                     <div class="col-sm-4 p-5 hover">
-                        <img class="img-fluid" src="~/assets/tuan.jpg" alt="">
-                        <div style="transform: rotate(0deg)">Đàm Anh Tuấn</div>
+                        <img class="img-fluid" src="~/assets/ngoc.jpg" alt="">
+                        <div style="transform: rotate(0deg)">Tạ Quang Ngọc</div>
                     </div>
                     <div class="col-sm-2"></div>
                 </div>
@@ -237,6 +237,10 @@
               <span class="carousel-control-next-icon" aria-hidden="true"><i class="fas fa-angle-right"></i></span>
               <span class="visually-hidden">Next</span>
           </button>
+    </div>
+
+    <div>
+        
     </div>
 
 
@@ -586,7 +590,7 @@ export default {
 }
 
 .info-admin .square:hover{
-    border: 3px solid  rgb(39, 121, 245);
+    border: 3px solid  rgb(0, 132, 255);
 }
 
 .info-admin .square i{
